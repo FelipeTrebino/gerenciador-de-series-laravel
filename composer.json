@@ -1,7 +1,14 @@
 {
-    "name": " felipe-trebino/gerenciador-de-series-laravel",
+    "name": "felipetrebino/gerenciadordeserieslaravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Projeto do curso laravel na plataforma da Alura",
+    "authors": [
+        {
+            "name": "Felipe Trebino",
+            "email": "fliphd1505@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
